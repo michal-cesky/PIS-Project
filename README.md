@@ -1,1 +1,2 @@
 # PIS-Project
+This repository contains project for the BPC-PIS course at Brno University of Technology from 2021. The project is a web application with the author's business card on the title page. The second element is a database in MySQL to which it is possible to add marks. On the front page the marks and grade point averages are displayed.
